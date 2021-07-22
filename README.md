@@ -18,41 +18,30 @@
 
 <p align="center">
 <br>
-<a href="https://www.facebook.com/alpha037" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://instagram.com/salpha037" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/shubhranil-dutta/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.instagram.com/darthobst/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 </p>
 
 <br>
 
 
 
-### I'm a Systems Engineer at [TCS](https://www.tcs.com/)
+### I'm a Dumbass that writes some code once in a while.
 
-- 🔭 I’m currently working on my problem solving skills.
-- 🌱 I’m currently learning Nestjs MEAN Stack Development.
-- 👯 I’m looking to collaborate with other Developers. :raised_hands:
-- 💬 Ask me about anything, I'm happy to help! :smile:
-- 📬 How to reach me: [Drop me a text!][linkedin]
-- ⚡ One fact about me: I'm in awe with [Java.](https://www.oracle.com/java/technologies/)❤️
-- ⚡Another fact about me: I'm crazy about Post Rock Instrumentals. Check out [this playlist on spotify.](https://open.spotify.com/playlist/2cmd5Q6nCwHjnJ0X7ipyeL?si=TV6jtYowSj-qdnsjuZYVXw) :grin:
-- 🎵 Let's connect! I'd love to know the kind of music you listen to.
+- 🌱 I’m currently learning Python.
+- 📬 How to reach me: my discord is Tie#0001 feel free to DM
+- 🎵 A fact about me: I love music. Check out [one of my favorite playlists on spotify.](https://open.spotify.com/playlist/1TyNwkxBx8sjZCcQIgmNpW?si=d7b2cf838fad436a) :grin:
 
 <br>
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=alpha037&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&cache_seconds=1800" alt="alpha037's Github Stats" width="60%">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tie208&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&cache_seconds=1800" alt="alpha037's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha037&show_icons=true&hide_border=true&theme=radical" width="37%" alt="alpha037's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tie208&show_icons=true&hide_border=true&theme=radical" width="37%" alt="tie208's Top Languages">
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alpha037&theme=dark" alt="alpha037's Github Streaks" width="70%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tie208&theme=dark" alt="tie208's Github Streaks" width="70%">
 </div>
 
 <br>
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-
-[instagram]: https://instagram.com/subhranil_dutta
-[linkedin]: https://www.linkedin.com/in/shubhranil-dutta-profile/
