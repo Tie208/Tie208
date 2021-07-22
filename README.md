@@ -3,15 +3,17 @@
 </p>
 
 <p>
-  <h1 align="center"><b>Hi there, I'm Shubhranil! 👋</b></h1>
+  <h1 align="center"><b>Hi there, I'm Tie! 👋</b></h1>
 </p>
 
 <p>
-  <h4 align="center"><b>"Your life is ruled by Recursion. The only difference is you can't backtrack."</b></h4>
+  <h4 align="center"><b>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
+
+― Martin Fowler</b></h4>
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/alpha037" />
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/tie208" />
 </p>
 
 <p align="center">
@@ -23,7 +25,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="res/laptop-guy.gif" />
+
 
 ### I'm a Systems Engineer at [TCS](https://www.tcs.com/)
 
