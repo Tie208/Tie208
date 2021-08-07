@@ -25,7 +25,7 @@
 
 
 
-### I'm a guy that writes some code once in a while.
+### I write some code once in a while.
 
 - 🌱 I’m currently learning Python.
 - 📬 How to reach me: my discord is Tie#0001 feel free to DM
