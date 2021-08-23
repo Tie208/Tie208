@@ -1,6 +1,3 @@
-<p align="center">
-  <a href="https://bit.ly/IqT6zt" target="_blank"><img src="https://cdn.discordapp.com/banners/427600122080395295/005758128fc491881d471bd516335998.png" width=854 height=300></a>
-</p>
 
 <p>
   <h1 align="center"><b>Hi there, I'm Tie! 👋</b></h1>
